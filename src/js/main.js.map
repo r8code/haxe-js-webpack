@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"main.js",
+"sourceRoot":"file:///",
+"sources":["/home/r8/practice/haxe/haxejs/helloworld/src/Main.hx"],
+"sourcesContent":["package;\n\nclass Main\n{\n    public static function main(){\n        trace(\"Hello World of Haxe JS !!\");\n    }\n}"],
+"names":[],
+"mappings":";;;YAIkB,WACV;AAAA,aAAM;;;;;"
+}

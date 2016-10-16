@@ -4,14 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch:hx": "onchange 'src/*.hx' '**/*.md' -v -- haxe build.hxml",
-    "watch:wp": "webpack-dev-server --content-base=bin --hot --inline --watch",
+    "watch": "webpack-dev-server --content-base=bin --hot --inline --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "onchange": "^3.0.2",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
   }

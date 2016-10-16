@@ -2,7 +2,9 @@
 (function () { "use strict";
 var Main = function() { };
 Main.main = function() {
-	console.log("Hello Great Master Yos");
+	console.log("Hello World of Haxe JS !!");
 };
 Main.main();
 })();
+
+//# sourceMappingURL=main.js.map

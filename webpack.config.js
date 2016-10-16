@@ -1,6 +1,7 @@
 var path = require('path');
 
 var config = {
+  devtool:'source-map',
   context: path.join(__dirname, 'src/js'),
   entry: [
     './main.js',

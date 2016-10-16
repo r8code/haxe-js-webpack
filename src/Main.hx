@@ -3,6 +3,6 @@ package;
 class Main
 {
     public static function main(){
-        trace("Hello Great Master Yos");
+        trace("Hello World of Haxe JS !!");
     }
 }

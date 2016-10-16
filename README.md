@@ -15,11 +15,11 @@ simple Hello world setting
 
 first terminal:
 
-- haxe-watchify --program haxe --hxml build.hxml
+- npm run watch
 
 second terminal:
 
-- npm run watch
+- haxe-watchify --program haxe --hxml build.hxml
 
 Open localhost:8080  then try editing Main.hx to see hot-reload
 
